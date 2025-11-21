@@ -6,7 +6,7 @@ It’s **read-only** and only scrapes numbers from the page text—no API calls,
 
 ## Features
 
-- Finds page sections mentioning: `reserve`, `reserves`, `liquidity`, `balance`, `pool`, `vault`  
+- Finds page sections mentioning: `reserve`, `reserves`, `liquidity`, `balance`, `pool`  
 - Extracts any numbers in those sections  
 - Prints results in a simple console table  
 - Works entirely in your browser console  
